@@ -2,4 +2,4 @@ Source code releases of open-source tools published by SecuriousLab. Each releas
 
 | Tool | Latest version | License | Upstream |
 |---|---|---|---|
-| FirstLook Collector | v0.77.3-fl.17 | GNU AGPL v3 | Based on Velociraptor |
+| FirstLook Collector | v0.77.3-fl.18 | GNU AGPL v3 | Based on Velociraptor |
